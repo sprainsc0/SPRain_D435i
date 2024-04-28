@@ -54,7 +54,7 @@ configurable_parameters = [{'name': 'camera_name',                  'default': '
                            {'name': 'fisheye_fps',                  'default': '-1.', 'description': ''},
                            {'name': 'depth_fps',                    'default': '-1.', 'description': ''},
                            {'name': 'confidence_fps',               'default': '-1.', 'description': ''},
-                           {'name': 'infra_fps',                    'default': '30.', 'description': ''},
+                           {'name': 'infra_fps',                    'default': '15.', 'description': ''},
                            {'name': 'color_fps',                    'default': '-1.', 'description': ''},
                            {'name': 'gyro_fps',                     'default': '-1.', 'description': ''},
                            {'name': 'accel_fps',                    'default': '-1.', 'description': ''},
